@@ -5,7 +5,9 @@ To run this project locally using Docker, follow these steps:
 1. Clone the repository:
    ```bash
    git clone https://github.com/Pgangothri/health-blog.git
+   create virtual environment virtualenv venv
    cd your-project
+   
 2. Now we have to create superuser:
    ```bash
    python manage.py createsuperuser
